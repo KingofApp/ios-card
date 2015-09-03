@@ -1,0 +1,28 @@
+{
+  "name": "ios-card",
+  "version": "0.0.1",
+  "description": "iOS design piece of paper with unique related data",
+  "authors": [
+    "Abdón Rodríguez Davila <thepeer@kingofapp.es>"
+  ],
+  "keywords": [
+    "web-components",
+    "web-component",
+    "polymer",
+    "ios",
+    "card"
+  ],
+  "main": "ios-card.html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KingofApp/ios-card"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.1.0"
+  },
+  "devDependencies": {
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
+  }
+}
