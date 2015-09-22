@@ -15,11 +15,12 @@
   "main": "ios-card.html",
   "repository": {
     "type": "git",
-    "url": "git://github.com/KingofApp/ios-card"
+    "url": "git://github.com/KingofApp/ios-card.git"
   },
   "license": "MIT",
   "dependencies": {
-    "polymer": "polymer/polymer#^1.1.0"
+    "polymer": "Polymer/polymer#^1.1.0",
+    "iron-flex-layout": "PolymerElements/iron-flex-layout#^1.0.0"
   },
   "devDependencies": {
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
