@@ -1,7 +1,7 @@
 {
   "name": "ios-card",
-  "version": "0.1.1",
-  "description": "iOS design piece of paper with unique related data",
+  "version": "0.1.2",
+  "description": "iOS design card with unique related data",
   "authors": [
     "Abdón Rodríguez Davila <thepeer@kingofapp.es>"
   ],
